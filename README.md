@@ -1,24 +1,28 @@
-# TicTacToe-Flask
-Lightweight tic tac toe game using Flask framework and Angular.  AI uses the minimax algorithm to calculate moves.  Good luck
-trying to win.
+<h1 align="center">TIC-TAC-TOE-GAME</h1>
 
-## Install
+
+## :rocket: Knowledges
+ - `ReactJS`
+ - `Framer Motion`
+
+## :book: How to use
+To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [ReactJS](https://reactjs.org/docs/getting-started.html) installed on your computer. From your command line:
+
 ```
-pip install -r requirements.txt
+# Clone this repository
+$ git clone https://github.com/YoucefHmd/TIC-TAC-TOE-GAME.git
+
+# Go into the repository
+$ cd TIC-TAC-TOE-GAME
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
 ```
+## :link: Demo
+  - <a target="_blank" href="https://YoucefHmd.github.io/TIC-TAC-TOE-GAME/"> Click Here </a> to see and play by yourself a demo of the game.
 
-## Run
-```
-python tictactoe.py
-```
-
-and navigate to `http://localhost:5000`
-
-## Minimax
-Inside [game.py](https://github.com/Buuntu/minimax-algorithm/blob/master/game.py#L31) 
-is my implementation of the 
-[minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
-
-![Example](./static/img/example.png)
-
-
+## :mailbox: Contact
+  - <a target="_blank" href="mailto:youcef.hammadi.y.s.p@gmail.com">E-mail</a>
